@@ -1,0 +1,9 @@
+Tipus;Fajta;Szín;Kor;Név;Játék;Igény;Datum
+K;Golden Retriver;Arany;5;Goldy;Labda;9;18-10-2020
+K;Nemetjuhász;Arany-Fekete;8;Rex;Gumicsont;6;12-09-2021
+K;Tacskó;Barna;2;Füles;Kötél;3;08-11-2017
+M;Bengáli;Szürke;5;Maszat;Gumihal;12;27-05-2023
+M;Cirmos;Fekete-Fehér;3;Cirmi;Gumilabda;10;22-01-2024
+M;Perzsa;Vörös;4;Nudli;Madzag;12;14-09-2013
+K;Puli;Feher;6;Kocos;Csont;9;07-09-2019
+K;Kínai;Szürke;6;Takarodj;Csont;16;22-02-2016
